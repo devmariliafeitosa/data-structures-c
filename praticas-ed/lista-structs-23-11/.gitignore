@@ -1,0 +1,10 @@
+
+# Executaveis gerados na compilacao
+*.exe
+
+# Arquivos temporarios
+*.o
+*.obj
+
+# Arquivos de depuracao
+*.pdb
